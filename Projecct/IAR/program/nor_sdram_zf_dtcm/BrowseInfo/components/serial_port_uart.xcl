@@ -1,0 +1,181 @@
+"F:\工训\车赛\Libraries\nxp_libraries\components\serial_manager\serial_port_uart.c"
+-std=c99
+-ferror-limit=0
+-fbracket-depth=512
+-funsigned-char
+-MD
+-MF
+F:\工训\车赛\Projecct\IAR\program\nor_sdram_zf_dtcm\BrowseInfo\components\serial_port_uart.pbi.dep
+-o
+F:\工训\车赛\Projecct\IAR\program\nor_sdram_zf_dtcm\BrowseInfo\components\serial_port_uart.pbi
+-I
+F:\工训\车赛\Libraries\nxp_libraries\components\serial_manager
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\USER\inc
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\USER\src
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\CODE
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\nxp_libraries\CMSIS\Include
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\nxp_libraries\cmsis_drivers
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\nxp_libraries\drives
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\nxp_libraries\startup
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\nxp_libraries\startup\IAR-ARM
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\nxp_libraries\utilities
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\nxp_libraries\utilities\debug_console
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\nxp_libraries\utilities\str
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\nxp_libraries\xip
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\nxp_libraries\components\serial_manager
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\nxp_libraries\components\serial_manager\usb_cdc_adapter
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\nxp_libraries\components\uart
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\nxp_libraries\components\lists
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\nxp_libraries\deceive
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\seekfree_libraries
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\seekfree_peripheral
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\seekfree_libraries\common
+-I
+F:\宸ヨ\杞﹁禌\Projecct\IAR\program\..\..\..\Libraries\seekfree_libraries\board
+-I
+F:\宸ヨ\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\HardWare\Tracker
+-I
+F:\宸ヨ\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\HardWare\OpenArt
+-I
+F:\宸ヨ\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\HardWare\HWT101
+-I
+F:\宸ヨ\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\HardWare\BlueTooth
+-I
+F:\宸ヨ\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\HardWare
+-I
+F:\宸ヨ\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\HardWare\Key
+-I
+F:\宸ヨ\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\HardWare\Motor
+-I
+F:\宸ヨ\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\Application
+-I
+E:\IAR Workbench\arm\inc\c\aarch32
+-I
+E:\IAR Workbench\arm\inc
+-I
+E:\IAR Workbench\arm\inc\c
+-I
+F:\工训\车赛\Projecct\USER\inc
+-I
+F:\工训\车赛\Projecct\USER\src
+-I
+F:\工训\车赛\Projecct\CODE
+-I
+F:\工训\车赛\Libraries\nxp_libraries\CMSIS\Include
+-I
+F:\工训\车赛\Libraries\nxp_libraries\cmsis_drivers
+-I
+F:\工训\车赛\Libraries\nxp_libraries\drives
+-I
+F:\工训\车赛\Libraries\nxp_libraries\startup
+-I
+F:\工训\车赛\Libraries\nxp_libraries\startup\IAR-ARM
+-I
+F:\工训\车赛\Libraries\nxp_libraries\utilities
+-I
+F:\工训\车赛\Libraries\nxp_libraries\utilities\debug_console
+-I
+F:\工训\车赛\Libraries\nxp_libraries\utilities\str
+-I
+F:\工训\车赛\Libraries\nxp_libraries\xip
+-I
+F:\工训\车赛\Libraries\nxp_libraries\components\serial_manager
+-I
+F:\工训\车赛\Libraries\nxp_libraries\components\serial_manager\usb_cdc_adapter
+-I
+F:\工训\车赛\Libraries\nxp_libraries\components\uart
+-I
+F:\工训\车赛\Libraries\nxp_libraries\components\lists
+-I
+F:\工训\车赛\Libraries\nxp_libraries\deceive
+-I
+F:\工训\车赛\Libraries\seekfree_libraries
+-I
+F:\工训\车赛\Libraries\seekfree_peripheral
+-I
+F:\工训\车赛\Libraries\seekfree_libraries\common
+-I
+F:\工训\车赛\Libraries\seekfree_libraries\board
+-I
+F:\工训\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\HardWare\Tracker
+-I
+F:\工训\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\HardWare\OpenArt
+-I
+F:\工训\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\HardWare\HWT101
+-I
+F:\工训\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\HardWare\BlueTooth
+-I
+F:\工训\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\HardWare
+-I
+F:\工训\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\HardWare\Key
+-I
+F:\工训\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\HardWare\Motor
+-I
+F:\工训\Seekfree_RT1064_Opensource_Library\Projecct\USER\src\Application
+-DCPU_MIMXRT1064DVL6A=1
+-DSKIP_SYSCLK_INIT=1
+-DXIP_EXTERNAL_FLASH=1
+-DXIP_BOOT_HEADER_ENABLE=1
+-DXIP_BOOT_HEADER_DCD_ENABLE=1
+-DPRINTF_FLOAT_ENABLE=1
+-DSCANF_FLOAT_ENABLE=1
+-DPRINTF_ADVANCED_ENABLE=1
+-DSCANF_ADVANCED_ENABLE=1
+-DFSL_DRIVER_TRANSFER_DOUBLE_WEAK_IRQ=0
+-D__CODE_MEMORY_LIST1__()=__CODE_MEM_HELPER1__(__code, 0 )
+-D__CODE_MEMORY_LIST2__(_P1)=__CODE_MEM_HELPER2__(__code, 0 ,  _P1 )
+-D__CODE_MEMORY_LIST3__(_P1,_P2)=__CODE_MEM_HELPER3__(__code, 0 ,  _P1 ,  _P2 )
+-D__DATA_MEMORY_LIST1__()=__DATA_MEM_HELPER1__(__data, 0 )
+-D__DATA_MEMORY_LIST2__(_P1)=__DATA_MEM_HELPER2__(__data, 0 ,  _P1 )
+-D__DATA_MEMORY_LIST3__(_P1,_P2)=__DATA_MEM_HELPER3__(__data, 0 ,  _P1 ,  _P2 )
+-D__CODE_PTR_MEMORY_LIST1__()=__CODE_PTR_MEM_HELPER1__(__code, 0 )
+-D__CODE_PTR_MEMORY_LIST2__(_P1)=__CODE_PTR_MEM_HELPER2__(__code, 0 ,  _P1 )
+-D__CODE_PTR_MEMORY_LIST3__(_P1,_P2)=__CODE_PTR_MEM_HELPER3__(__code, 0 ,  _P1 ,  _P2 )
+-D__DATA_PTR_MEMORY_LIST1__()=__DATA_PTR_MEM_HELPER1__(__data, 0 )
+-D__DATA_PTR_MEMORY_LIST2__(_P1)=__DATA_PTR_MEM_HELPER2__(__data, 0 ,  _P1 )
+-D__DATA_PTR_MEMORY_LIST3__(_P1,_P2)=__DATA_PTR_MEM_HELPER3__(__data, 0 ,  _P1 ,  _P2 )
+-D__VAR_MEMORY_LIST1__()=__VAR_MEM_HELPER1__(__data, 0 )
+-D__VAR_MEMORY_LIST2__(_P1)=__VAR_MEM_HELPER2__(__data, 0 ,  _P1 )
+-D__VAR_MEMORY_LIST3__(_P1,_P2)=__VAR_MEM_HELPER3__(__data, 0 ,  _P1 ,  _P2 )
+-D__VARD_MEMORY_LIST1__()=__VARD_MEM_HELPER1__(__data, 0, _ )
+-D__HEAP_MEMORY_LIST1__()=__HEAP_MEM_HELPER1__(__data, 0 )
+-D__HEAP_MEMORY_LIST2__(_P1)=__HEAP_MEM_HELPER2__(__data, 0 ,  _P1 )
+-D__HEAP_MEMORY_LIST3__(_P1,_P2)=__HEAP_MEM_HELPER3__(__data, 0 ,  _P1 ,  _P2 )
+-D__HVAR_MEMORY_LIST1__()=__HVAR_MEM_HELPER1__(__data, 0 )
+-D__HEAPD_MEMORY_LIST1__()=__HEAPD_MEM_HELPER1__(__data, 0, _ )
+-D__HEAPU_MEMORY_LIST1__()=__HEAPU_MEM_HELPER1__(__data, 0 )
+-D__TOPM_DATA_MEMORY_LIST1__()=
+-D__TOPM_DATA_MEMORY_LIST2__(_P1)=
+-D__TOPM_DATA_MEMORY_LIST3__(_P1,_P2)=
+-D__TOPP_DATA_MEMORY_LIST1__()=__TOPP_DATA_MEM_HELPER1__(__data, 0 )
+-D__TOPP_DATA_MEMORY_LIST2__(_P1)=__TOPP_DATA_MEM_HELPER2__(__data, 0 ,  _P1 )
+-D__TOPP_DATA_MEMORY_LIST3__(_P1,_P2)=__TOPP_DATA_MEM_HELPER3__(__data, 0 ,  _P1 ,  _P2 )
+-D__DATA_MEM0_SIZE_TYPE__=unsigned int
+-D__DATA_MEM0_INDEX_TYPE__=signed int
+-D__iar_fp2bits32(x)=0
+-D__iar_fp2bits64(x)=0
+-D__iar_fpgethi64(x)=0
+-D__iar_atomic_add_fetch(x,y,z)=0
+-D__iar_atomic_sub_fetch(x,y,z)=0
+-D__iar_atomic_load(x,y)=0ULL
+-D__iar_atomic_compare_exchange_weak(a,b,c,d,e)=0
